@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cleversonoliveira
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning data sets prediction usinng python
+- 🌱 I’m currently learning data sets prediction using  mainly python
 - 💞️ I’m looking to collaborate on projects related to this issues.
 - 📫 How to reach me cleversonoliveira@gmail.com
 
